@@ -4,7 +4,7 @@ setup(
     name='service-container',
     version='0.1.0',
     packages=['servicecontainer'],
-    license='MIT',
+    license='Apache 2.0',
     author='Heureka.cz',
     author_email='fialovi@heureka.cz',
     description='Dependency injection container with parameters and transaction control.',
